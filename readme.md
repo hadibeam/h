@@ -34,4 +34,4 @@ The battery life and performance of your future iPhone matters a lot. The iPhone
 Select the colour:
 - [ ] white
 - [x] black
-- [ ] red
+- [ ] red# h
