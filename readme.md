@@ -20,4 +20,18 @@ There are significant advances between the iPhone 11 vs the iPhone 12 and 13 in 
 The battery life and performance of your future iPhone matters a lot. The iPhone 11 has the A13 chip, the iPhone 12 the A14 and the iPhone 13 the A15.<BR>
 
  *Do you want to know about the differences in even more detail?*
- [**CLICK HERE**](https://istyle.ae/compare-iphone) *, where you can compare each iPhone and make the big decision.*GIT STATUS
+ [**CLICK HERE**](https://istyle.ae/compare-iphone) , *where you can compare each iPhone and make the big decision.* 
+
+ ```
+{
+  modeltName: IPHONE 13,
+  "release": "2021",
+
+  modeltName: IPHONE 12,
+  "release": "2020",
+}
+```
+Select the colour:
+- [ ] white
+- [x] black
+- [ ] red
